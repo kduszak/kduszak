@@ -1,5 +1,5 @@
 ## Hello, I'm Kamil Duszak
-Data enthusiast with a keen interest in extracting insights from raw data. Currently refining my skills in data manipulation, analysis, and visualization. Open to opportunities to contribute to real-world projects.  
+Data enthusiast with a keen interest in extracting insights from raw data. Currently refining my skills in data manipulation, analysis, and visualisation. Open to opportunities to contribute to real-world projects.  
 
 My interests include history, linguistics, data analysis and casual coding.
 
